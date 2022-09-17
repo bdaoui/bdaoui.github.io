@@ -8,3 +8,7 @@ nav{
     flex-direction: row;
 }
 
+h1{
+    background-color: slategray;
+    color: black;
+}
